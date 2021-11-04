@@ -1,0 +1,29 @@
+.mountain {
+    background-color: #20BF55;
+    height: 120px;
+    width:auto ;
+    text-align: center;
+   
+}
+footer {
+    background-color:#20BF55;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+.photo {
+    float: right;
+    margin: 20px;
+    height: auto;
+}
+.list1 {
+    height: 200px;
+    font-size: 20px;
+}
+h1 {
+    font-family: serif;
+    font-size: 80px;
+}
+h2 {
+    font-size: 30px;
+}
