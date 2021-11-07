@@ -1,3 +1,4 @@
+@media (min-width: 32.5em) {
 .mountain {
     background-color: #20BF55;
     height: 120px;
@@ -26,4 +27,5 @@ h1 {
 }
 h2 {
     font-size: 30px;
+}
 }
