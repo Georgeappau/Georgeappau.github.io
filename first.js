@@ -1,1 +1,2 @@
-alert(document.lastModified);
+let date = new Date();
+document.getElementById("datetime").innerHTML = document.lastModified
